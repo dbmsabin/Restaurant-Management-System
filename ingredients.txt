@@ -1,0 +1,6 @@
+Category|Ingredient|Quantity|Unit|Min_Stock
+Vegetables|Tomatoes|20|kg|5
+Vegetables|Onions|15|kg|3
+Meat|Chicken|10|kg|4
+Dairy|Cheese|5|kg|2
+Spices|Salt|2|kg|1

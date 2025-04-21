@@ -1,0 +1,10 @@
+Fried Rice,20
+Kima Noodles,18
+Ice cream, 5
+Coke,50
+Beer,120
+Tea,2
+Chowmein,20
+Sausage,10
+Pizza,100
+French Fries,12
